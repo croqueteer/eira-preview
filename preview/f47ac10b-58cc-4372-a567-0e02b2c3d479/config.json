@@ -1,0 +1,401 @@
+{
+  "apartments": [
+    {
+      "id": "villa-sol",
+      "name": "Villa Sol",
+      "images": [
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200",
+        "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=1200",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1200"
+      ],
+      "price": 195,
+      "guests": 6,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "features": ["wifi", "pool", "parking", "aircon", "kitchen"],
+      "capacity": 6,
+      "basePrice": 585.00,
+      "cleaningFee": 80.00,
+      "additionalItems": 0.00,
+      "calendarId": "",
+      "icalUrl": "",
+      "licenseNumber": "ETV-001234",
+      "checkInTime": "16:00",
+      "checkOutTime": "10:00",
+      "translations": {
+        "en": {
+          "title": "Bright Villa with Private Pool",
+          "shortDescription": "Spacious Mediterranean villa with a private pool, panoramic sea views and a large terrace — 5 minutes from Alcúdia's old town.",
+          "description": "Villa Sol is a beautifully restored stone villa sitting on the northern tip of Mallorca. Floor-to-ceiling windows flood the open-plan living area with natural light, while the private pool terrace is the perfect place to watch the sun set over the bay.\n\nThe kitchen is fully equipped with a coffee machine, dishwasher and wine fridge. Three bedrooms sleep up to six guests comfortably, with crisp white linens and blackout blinds in every room.",
+          "details": "3 bedrooms (1 king, 2 queens) · 2 bathrooms · Private pool (8×4m, heated April–October) · Air conditioning in all rooms · Free parking for 2 cars · Fast WiFi · Smart TV · BBQ terrace",
+          "environment": "Nestled in a quiet residential area just outside Alcúdia, the villa is surrounded by pine and olive trees. The nearest beach (Platja d'Alcúdia) is a 10-minute walk. Supermarkets, restaurants and the weekly market are all within 5 minutes by car.",
+          "location": "Alcúdia, Mallorca",
+          "amenities": ["Private pool", "Sea views", "Air conditioning", "BBQ", "Free parking", "Fast WiFi", "Fully equipped kitchen", "Smart TV"]
+        },
+        "es": {
+          "title": "Villa luminosa con piscina privada",
+          "shortDescription": "Amplia villa mediterránea con piscina privada, vistas panorámicas al mar y gran terraza — a 5 minutos del casco antiguo de Alcúdia.",
+          "description": "Villa Sol es una preciosa villa de piedra restaurada situada en la punta norte de Mallorca. Las ventanas de suelo a techo inundan el salón de luz natural, mientras que la terraza con piscina privada es el lugar perfecto para ver el atardecer sobre la bahía.\n\nLa cocina está completamente equipada con cafetera, lavavajillas y vinoteca. Tres habitaciones dan cabida a seis huéspedes con comodidad, con ropa de cama blanca y persianas blackout en cada habitación.",
+          "details": "3 habitaciones (1 cama king, 2 queens) · 2 baños · Piscina privada (8×4m, climatizada abril–octubre) · Aire acondicionado en todas las habitaciones · Parking gratuito para 2 coches · WiFi rápido · Smart TV · Terraza con barbacoa",
+          "environment": "Ubicada en una zona residencial tranquila a las afueras de Alcúdia, la villa está rodeada de pinos y olivos. La playa más cercana (Platja d'Alcúdia) está a 10 minutos a pie. Supermercados, restaurantes y el mercado semanal están a 5 minutos en coche.",
+          "location": "Alcúdia, Mallorca",
+          "amenities": ["Piscina privada", "Vistas al mar", "Aire acondicionado", "Barbacoa", "Aparcamiento gratuito", "WiFi rápido", "Cocina equipada", "Smart TV"]
+        },
+        "gl": {
+          "title": "Vila luminosa con piscina privada",
+          "shortDescription": "Ampla vila mediterránea con piscina privada, vistas panorámicas ao mar e gran terraza — a 5 minutos do casco antigo de Alcúdia.",
+          "description": "Villa Sol é unha preciosa vila de pedra restaurada situada na punta norte de Mallorca. As ventás de chan a teito inundan o salón de luz natural, mentres que a terraza con piscina privada é o lugar perfecto para ver o solpor sobre a baía.\n\nA cociña está completamente equipada con cafeteira, lavalouzas e adega de viños. Tres habitacións dan cabida a seis hóspedes con comodidade, con roupa de cama branca e persianas blackout en cada habitación.",
+          "details": "3 habitacións (1 cama king, 2 queens) · 2 baños · Piscina privada (8×4m, climatizada abril–outubro) · Aire acondicionado en todas as habitacións · Parking gratuíto para 2 coches · WiFi rápido · Smart TV · Terraza con barbacoa",
+          "environment": "Situada nunha zona residencial tranquila ás aforas de Alcúdia, a vila está rodeada de piñeiros e oliveiras. A praia máis próxima (Platja d'Alcúdia) está a 10 minutos a pé. Supermercados, restaurantes e o mercado semanal están a 5 minutos en coche.",
+          "location": "Alcúdia, Mallorca",
+          "amenities": ["Piscina privada", "Vistas ao mar", "Aire acondicionado", "Barbacoa", "Aparcamento gratuíto", "WiFi rápido", "Cociña equipada", "Smart TV"]
+        }
+      }
+    },
+    {
+      "id": "apartamento-marina",
+      "name": "Apartamento Marina",
+      "images": [
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200"
+      ],
+      "price": 115,
+      "guests": 4,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "features": ["wifi", "aircon", "kitchen", "balcony"],
+      "capacity": 4,
+      "basePrice": 230.00,
+      "cleaningFee": 50.00,
+      "additionalItems": 0.00,
+      "calendarId": "",
+      "icalUrl": "",
+      "licenseNumber": "ETV-002891",
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "translations": {
+        "en": {
+          "title": "Modern Flat in the Port",
+          "shortDescription": "Sleek two-bedroom apartment in the heart of Port d'Alcúdia, steps from the beach and the marina's best restaurants.",
+          "description": "Apartamento Marina sits on the second floor of a modern building right in the port district. The open-plan living space features a fully equipped kitchen, comfortable sofa and a balcony overlooking the palm-lined promenade.\n\nBoth bedrooms have air conditioning and built-in wardrobes. The apartment is ideal for couples or small families looking to be in the thick of the action — beaches, boat trips and nightlife all within walking distance.",
+          "details": "2 bedrooms (1 double, 1 twin) · 1 bathroom · Private balcony · Air conditioning · Fast WiFi · Smart TV · Fully equipped kitchen · Elevator access",
+          "environment": "The apartment is set in the lively port area of Alcúdia, surrounded by seafood restaurants, beach bars and boutique shops. The sandy beach is a 3-minute walk. Boat hire, kayaking and paddleboard rental are available 100m away.",
+          "location": "Port d'Alcúdia, Mallorca",
+          "amenities": ["Balcony with promenade views", "Air conditioning", "Fast WiFi", "Elevator", "Fully equipped kitchen", "Smart TV", "Steps from the beach"]
+        },
+        "es": {
+          "title": "Apartamento moderno en el Puerto",
+          "shortDescription": "Elegante apartamento de dos habitaciones en el corazón del Port d'Alcúdia, a pasos de la playa y los mejores restaurantes de la marina.",
+          "description": "El Apartamento Marina se encuentra en la segunda planta de un edificio moderno en el distrito del puerto. El salón de concepto abierto cuenta con una cocina completamente equipada, sofá cómodo y un balcón con vistas al paseo marítimo bordeado de palmeras.\n\nAmbas habitaciones tienen aire acondicionado y armarios empotrados. El apartamento es ideal para parejas o familias pequeñas que quieran estar en el centro de la acción: playas, excursiones en barco y vida nocturna a pie.",
+          "details": "2 habitaciones (1 doble, 1 twin) · 1 baño · Balcón privado · Aire acondicionado · WiFi rápido · Smart TV · Cocina totalmente equipada · Acceso con ascensor",
+          "environment": "El apartamento está en la animada zona portuaria de Alcúdia, rodeado de restaurantes de marisco, chiringuitos y tiendas boutique. La playa de arena está a 3 minutos a pie. El alquiler de barcos, kayak y paddleboard está disponible a 100m.",
+          "location": "Port d'Alcúdia, Mallorca",
+          "amenities": ["Balcón con vistas al paseo", "Aire acondicionado", "WiFi rápido", "Ascensor", "Cocina equipada", "Smart TV", "A pasos de la playa"]
+        },
+        "gl": {
+          "title": "Apartamento moderno no Porto",
+          "shortDescription": "Elegante apartamento de dúas habitacións no corazón do Port d'Alcúdia, a pasos da praia e os mellores restaurantes da mariña.",
+          "description": "O Apartamento Marina atópase no segundo andar dun edificio moderno no distrito do porto. O salón de concepto aberto conta cunha cociña completamente equipada, sofá cómodo e un balcón con vistas ao paseo marítimo bordeado de palmeiras.\n\nAmbas habitacións teñen aire acondicionado e armarios empotrados. O apartamento é ideal para parellas ou familias pequenas que queiran estar no centro da acción.",
+          "details": "2 habitacións (1 dobre, 1 twin) · 1 baño · Balcón privado · Aire acondicionado · WiFi rápido · Smart TV · Cociña totalmente equipada · Acceso con ascensor",
+          "environment": "O apartamento está na animada zona portuaria de Alcúdia, rodeado de restaurantes de marisco, chiringuitos e tendas boutique. A praia de area está a 3 minutos a pé.",
+          "location": "Port d'Alcúdia, Mallorca",
+          "amenities": ["Balcón con vistas ao paseo", "Aire acondicionado", "WiFi rápido", "Ascensor", "Cociña equipada", "Smart TV", "A pasos da praia"]
+        }
+      }
+    },
+    {
+      "id": "finca-tramuntana",
+      "name": "Finca Tramuntana",
+      "images": [
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1200",
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1200",
+        "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=1200"
+      ],
+      "price": 320,
+      "guests": 10,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "features": ["wifi", "pool", "parking", "aircon", "kitchen", "garden"],
+      "capacity": 10,
+      "basePrice": 1600.00,
+      "cleaningFee": 150.00,
+      "additionalItems": 0.00,
+      "calendarId": "",
+      "icalUrl": "",
+      "licenseNumber": "ETV-004412",
+      "checkInTime": "17:00",
+      "checkOutTime": "10:00",
+      "translations": {
+        "en": {
+          "title": "Secluded Finca in the Tramuntana",
+          "shortDescription": "A grand 19th-century finca nestled in the UNESCO-listed Serra de Tramuntana mountains. Olive groves, a 12-metre pool and absolute tranquillity.",
+          "description": "Finca Tramuntana is a landmark property with 5 bedrooms spread across the original stone farmhouse and a recently converted annexe. The estate sits on 4 hectares of working olive and almond groves, with the Tramuntana peaks as a constant backdrop.\n\nThe infinity pool overlooks the valley below, and the large covered terrace is perfect for long family dinners as the mountains cool in the evening air. A full-size outdoor kitchen with pizza oven completes the picture.",
+          "details": "5 bedrooms (2 king, 2 doubles, 1 twin) · 3 bathrooms · 12m infinity pool · Outdoor kitchen with pizza oven · Air conditioning · 4 hectares of grounds · Parking for 4 cars · Fast WiFi · Wood-burning fireplace",
+          "environment": "Located 8km from the village of Sóller, the finca is tucked into a quiet valley accessible via a scenic mountain road. Sóller's famous tram connects to Palma in 45 minutes. The nearest beach (Port de Sóller) is 15 minutes by car.",
+          "location": "Sóller, Serra de Tramuntana, Mallorca",
+          "amenities": ["12m infinity pool", "Mountain views", "Outdoor kitchen & pizza oven", "4 hectares of grounds", "Wood-burning fireplace", "Air conditioning", "Fast WiFi", "Parking for 4 cars"]
+        },
+        "es": {
+          "title": "Finca privada en la Tramuntana",
+          "shortDescription": "Una gran finca del siglo XIX enclavada en las montañas de la Serra de Tramuntana, declarada Patrimonio de la Humanidad. Olivares, piscina de 12 metros y tranquilidad absoluta.",
+          "description": "La Finca Tramuntana es una propiedad emblemática con 5 habitaciones repartidas entre la masía de piedra original y un anexo recientemente convertido. La finca se asienta sobre 4 hectáreas de olivares y almendros en producción, con las cumbres de la Tramuntana como telón de fondo permanente.\n\nLa piscina infinita domina el valle que se extiende abajo, y la gran terraza cubierta es perfecta para largas cenas familiares mientras las montañas se refrescan con el aire de la tarde.",
+          "details": "5 habitaciones (2 king, 2 dobles, 1 twin) · 3 baños · Piscina infinita de 12m · Cocina exterior con horno de leña · Aire acondicionado · 4 hectáreas de terreno · Aparcamiento para 4 coches · WiFi rápido · Chimenea de leña",
+          "environment": "Situada a 8km del pueblo de Sóller, la finca se esconde en un tranquilo valle accesible por una pintoresca carretera de montaña. El famoso tranvía de Sóller conecta con Palma en 45 minutos. La playa más cercana (Port de Sóller) está a 15 minutos en coche.",
+          "location": "Sóller, Serra de Tramuntana, Mallorca",
+          "amenities": ["Piscina infinita de 12m", "Vistas a la montaña", "Cocina exterior y horno de pizza", "4 hectáreas de terreno", "Chimenea de leña", "Aire acondicionado", "WiFi rápido", "Aparcamiento para 4 coches"]
+        },
+        "gl": {
+          "title": "Finca privada na Tramuntana",
+          "shortDescription": "Unha gran finca do século XIX encravada nas montañas da Serra de Tramuntana, declarada Patrimonio da Humanidade. Oliveiras, piscina de 12 metros e tranquilidade absoluta.",
+          "description": "A Finca Tramuntana é unha propiedade emblemática con 5 habitacións repartidas entre a masía de pedra orixinal e un anexo recentemente convertido. A finca asenta sobre 4 hectáreas de oliveiras e amendoeiras en produción, coas cimas da Tramuntana como pano de fondo permanente.\n\nA piscina infinita domina o val que se estende abaixo, e a gran terraza cuberta é perfecta para longas ceas familiares.",
+          "details": "5 habitacións (2 king, 2 dobres, 1 twin) · 3 baños · Piscina infinita de 12m · Cociña exterior con forno de leña · Aire acondicionado · 4 hectáreas de terreo · Aparcamento para 4 coches · WiFi rápido · Cheminea de leña",
+          "environment": "Situada a 8km do pobo de Sóller, a finca escóndese nun tranquilo val accesible por unha pintoresca estrada de montaña. O famoso tranvía de Sóller conecta con Palma en 45 minutos.",
+          "location": "Sóller, Serra de Tramuntana, Mallorca",
+          "amenities": ["Piscina infinita de 12m", "Vistas á montaña", "Cociña exterior e forno de pizza", "4 hectáreas de terreo", "Cheminea de leña", "Aire acondicionado", "WiFi rápido", "Aparcamento para 4 coches"]
+        }
+      }
+    }
+  ],
+  "site": {
+    "company": {
+      "name": "illa stays",
+      "email": "hello@illastays.com",
+      "phone": "+34 971 123 456",
+      "whatsapp": "+34 612 345 678"
+    },
+    "social": {
+      "facebook": "",
+      "instagram": "@illastays",
+      "twitter": ""
+    },
+    "hero": {
+      "images": [
+        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1600",
+        "https://images.unsplash.com/photo-1537956965359-7573183d1f57?w=1600"
+      ]
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Sophie Laurent",
+        "rating": 5,
+        "date": "2024-07-20",
+        "comment": "Villa Sol was absolutely perfect. The pool, the views, the sunsets — we didn't want to leave. illa stays was responsive and made everything effortless.",
+        "platform": "Airbnb"
+      },
+      {
+        "id": 2,
+        "name": "Marco Bianchi",
+        "rating": 5,
+        "date": "2024-08-05",
+        "comment": "Finca Tramuntana exceeded every expectation. Waking up to those mountains every morning was something else. Would book again without hesitation.",
+        "platform": "Booking.com"
+      },
+      {
+        "id": 3,
+        "name": "Claire Müller",
+        "rating": 5,
+        "date": "2024-06-14",
+        "comment": "The marina apartment is in the best location. We walked to the beach every morning and had amazing restaurants right below the balcony.",
+        "platform": "Airbnb"
+      }
+    ],
+    "translations": {
+      "en": {
+        "hero": {
+          "title": "Where the Island",
+          "titleItalic": "feels like home",
+          "subtitle": "Handpicked villas, fincas and apartments across Mallorca's most beautiful corners",
+          "cta": "Explore Properties"
+        },
+        "about": {
+          "label": "Who We Are",
+          "title": "A different kind of",
+          "titleItalic": "island stay",
+          "body": "illa stays was founded by a small group of Mallorca locals who got tired of seeing the island's most beautiful properties stay empty or end up on faceless booking platforms. We work directly with owners to offer an honest, personal service — and we only list places we'd happily stay ourselves."
+        },
+        "features": {
+          "title": "The illa difference",
+          "items": [
+            { "icon": "🌊", "title": "Seafront & Mountain", "description": "From clifftop fincas to beachside apartments — every type of Mallorca" },
+            { "icon": "🤝", "title": "Owner Relations", "description": "We know every owner personally and inspect every property ourselves" },
+            { "icon": "📱", "title": "Always Reachable", "description": "WhatsApp support from arrival to departure — no call centres" },
+            { "icon": "🧹", "title": "Hotel-Grade Cleaning", "description": "Professional changeover teams and quality linens on every stay" }
+          ]
+        },
+        "reviews": {
+          "title": "Stories from our guests"
+        },
+        "faq": {
+          "title": "Good to Know",
+          "items": [
+            {
+              "question": "Do you offer airport transfers?",
+              "answer": "Yes — we partner with a local transfer company and can arrange private airport pickups at any hour. Just let us know your flight details when booking."
+            },
+            {
+              "question": "Are pets allowed?",
+              "answer": "Some of our properties are pet-friendly. Filter by the pet-friendly tag when browsing, or get in touch and we'll match you with a suitable home."
+            },
+            {
+              "question": "What is the minimum stay?",
+              "answer": "Most properties require a minimum of 3 nights in shoulder season and 7 nights in July and August. Exceptions apply — check each listing for details."
+            },
+            {
+              "question": "Is the tourist tax included in the price?",
+              "answer": "Mallorca's tourist tax (Ecotasa) is collected on arrival and is not included in the listed price. The current rate is €2–4 per adult per night depending on the property category."
+            }
+          ]
+        },
+        "activities": {
+          "title": "Things to Do in Mallorca",
+          "subtitle": "From mountain hikes to sailing trips, Mallorca has more to offer than most"
+        },
+        "owners": {
+          "title": "List Your Property",
+          "subtitle": "Join a small, curated portfolio of Mallorca's finest homes"
+        },
+        "contact": {
+          "title": "Say Hello",
+          "subtitle": "Planning a trip or have a question? We reply fast.",
+          "responseTime": "Typical response time: under 2 hours"
+        }
+      },
+      "es": {
+        "hero": {
+          "title": "Donde la isla",
+          "titleItalic": "se siente como hogar",
+          "subtitle": "Villas, fincas y apartamentos en los rincones más bonitos de Mallorca, seleccionados a mano",
+          "cta": "Ver Propiedades"
+        },
+        "about": {
+          "label": "Quiénes Somos",
+          "title": "Un tipo diferente de",
+          "titleItalic": "estancia isleña",
+          "body": "illa stays fue fundado por un pequeño grupo de mallorquines hartos de ver las propiedades más hermosas de la isla vacías o acabando en plataformas de reserva impersonales. Trabajamos directamente con los propietarios para ofrecer un servicio honesto y personal — y solo publicamos lugares en los que nosotros mismos nos quedaríamos."
+        },
+        "features": {
+          "title": "La diferencia illa",
+          "items": [
+            { "icon": "🌊", "title": "Mar y Montaña", "description": "Desde fincas en acantilados hasta apartamentos junto a la playa — todo tipo de Mallorca" },
+            { "icon": "🤝", "title": "Relación con Propietarios", "description": "Conocemos a cada propietario personalmente e inspeccionamos cada propiedad nosotros mismos" },
+            { "icon": "📱", "title": "Siempre Disponibles", "description": "Soporte por WhatsApp desde la llegada hasta la salida — sin call centers" },
+            { "icon": "🧹", "title": "Limpieza de Nivel Hotel", "description": "Equipos de limpieza profesionales y ropa de cama de calidad en cada estancia" }
+          ]
+        },
+        "reviews": {
+          "title": "Historias de nuestros huéspedes"
+        },
+        "faq": {
+          "title": "Bueno Saber",
+          "items": [
+            {
+              "question": "¿Ofrecéis traslados al aeropuerto?",
+              "answer": "Sí — colaboramos con una empresa de traslados local y podemos organizar recogidas privadas en el aeropuerto a cualquier hora. Solo dinos los detalles de tu vuelo al reservar."
+            },
+            {
+              "question": "¿Se admiten mascotas?",
+              "answer": "Algunas de nuestras propiedades admiten mascotas. Filtra por la etiqueta pet-friendly al buscar, o contáctanos y te encontraremos el alojamiento adecuado."
+            },
+            {
+              "question": "¿Cuál es la estancia mínima?",
+              "answer": "La mayoría de propiedades requieren un mínimo de 3 noches en temporada media y 7 noches en julio y agosto. Consulta cada anuncio para más detalles."
+            },
+            {
+              "question": "¿Está incluido el impuesto turístico?",
+              "answer": "La tasa turística de Mallorca (Ecotasa) se cobra a la llegada y no está incluida en el precio mostrado. La tarifa actual es de 2–4 € por adulto por noche según la categoría de la propiedad."
+            }
+          ]
+        },
+        "activities": {
+          "title": "Qué Hacer en Mallorca",
+          "subtitle": "Desde rutas de montaña hasta excursiones en velero, Mallorca ofrece más de lo que imaginas"
+        },
+        "owners": {
+          "title": "Publica tu Propiedad",
+          "subtitle": "Únete a un portfolio pequeño y selecto de las mejores casas de Mallorca"
+        },
+        "contact": {
+          "title": "Escríbenos",
+          "subtitle": "¿Planeas un viaje o tienes alguna pregunta? Respondemos rápido.",
+          "responseTime": "Tiempo de respuesta habitual: menos de 2 horas"
+        }
+      },
+      "gl": {
+        "hero": {
+          "title": "Onde a illa",
+          "titleItalic": "se sente como fogar",
+          "subtitle": "Vilas, fincas e apartamentos nos recunchos máis bonitos de Mallorca, seleccionados a man",
+          "cta": "Ver Propiedades"
+        },
+        "about": {
+          "label": "Quen Somos",
+          "title": "Un tipo diferente de",
+          "titleItalic": "estancia isleña",
+          "body": "illa stays foi fundado por un pequeno grupo de mallorquinos fartos de ver as propiedades máis fermosas da illa baleiras ou acabando en plataformas de reserva impersonais. Traballamos directamente cos propietarios para ofrecer un servizo honesto e persoal."
+        },
+        "features": {
+          "title": "A diferenza illa",
+          "items": [
+            { "icon": "🌊", "title": "Mar e Montaña", "description": "Desde fincas en cantís ata apartamentos xunto á praia — todo tipo de Mallorca" },
+            { "icon": "🤝", "title": "Relación con Propietarios", "description": "Coñecemos a cada propietario persoalmente e inspeccionamos cada propiedade nós mesmos" },
+            { "icon": "📱", "title": "Sempre Dispoñibles", "description": "Soporte por WhatsApp desde a chegada ata a saída — sen call centers" },
+            { "icon": "🧹", "title": "Limpeza de Nivel Hotel", "description": "Equipos de limpeza profesionais e roupa de cama de calidade en cada estancia" }
+          ]
+        },
+        "reviews": {
+          "title": "Historias dos nosos hóspedes"
+        },
+        "faq": {
+          "title": "Bo Saber",
+          "items": [
+            {
+              "question": "Ofrecedes traslados ao aeroporto?",
+              "answer": "Si — colaboramos cunha empresa de traslados local e podemos organizar recollidas privadas no aeroporto a calquera hora."
+            },
+            {
+              "question": "Admítense mascotas?",
+              "answer": "Algunhas das nosas propiedades admiten mascotas. Filtra pola etiqueta pet-friendly ao buscar, ou contáctanos e atoparémosche o aloxamento axeitado."
+            },
+            {
+              "question": "Cal é a estancia mínima?",
+              "answer": "A maioría das propiedades requiren un mínimo de 3 noites en tempada media e 7 noites en xullo e agosto."
+            },
+            {
+              "question": "Está incluído o imposto turístico?",
+              "answer": "A taxa turística de Mallorca (Ecotasa) cóbrase á chegada e non está incluída no prezo mostrado. A tarifa actual é de 2–4 € por adulto por noite."
+            }
+          ]
+        },
+        "activities": {
+          "title": "Que Facer en Mallorca",
+          "subtitle": "Desde rutas de montaña ata excursións en veleiro, Mallorca ofrece máis do que imaxinas"
+        },
+        "owners": {
+          "title": "Publica a túa Propiedade",
+          "subtitle": "Únete a un portfolio pequeno e selecto das mellores casas de Mallorca"
+        },
+        "contact": {
+          "title": "Escríbenos",
+          "subtitle": "Planeas unha viaxe ou tes algunha pregunta? Respondemos rápido.",
+          "responseTime": "Tempo de resposta habitual: menos de 2 horas"
+        }
+      }
+    }
+  },
+  "features": {
+    "pages": {
+      "owners": true,
+      "activities": false
+    },
+    "sections": {
+      "about": true,
+      "reviews": true,
+      "faq": true,
+      "contact": true
+    }
+  }
+}
