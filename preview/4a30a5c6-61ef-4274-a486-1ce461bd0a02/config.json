@@ -1,4 +1,5 @@
 {
+  "languages": ["en", "es", "gl"],
   "apartments": [
     {
       "id": "casa-gua",
