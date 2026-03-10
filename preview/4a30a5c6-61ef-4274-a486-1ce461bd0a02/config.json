@@ -1,0 +1,270 @@
+{
+  "apartments": [
+    {
+      "id": "casa-gua",
+      "name": "Casa Güa",
+      "images": [
+        "https://static.wixstatic.com/media/945916_009dc854785c4c61855d0d3cd46ab649~mv2.jpg",
+        "https://static.wixstatic.com/media/945916_2948834985b145a9a7fd31158a21de61~mv2.jpg",
+        "https://static.wixstatic.com/media/945916_8ed2f6220536404cb3a2d4c9bd14e129~mv2.jpg",
+        "https://static.wixstatic.com/media/945916_de20a1c1722c46b584e37d17d0f7f923~mv2.jpg",
+        "https://static.wixstatic.com/media/945916_b4c0cb278f43412ba8d83a204ee19698~mv2.jpg",
+        "https://static.wixstatic.com/media/945916_0ad152d479ef4929b60d4f08fa24d6de~mv2.jpg"
+      ],
+      "price": 120,
+      "guests": 6,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "features": ["wifi", "garden", "parking", "kitchen", "fireplace"],
+      "capacity": 6,
+      "basePrice": 120,
+      "cleaningFee": 60,
+      "additionalItems": 0,
+      "calendarId": "",
+      "icalUrl": "",
+      "translations": {
+        "en": {
+          "title": "Casa Güa — A Rural Retreat in Galicia",
+          "shortDescription": "A beautifully restored stone house in Valdoviño, steps from wild Atlantic beaches and Galicia's most spectacular natural reserves.",
+          "description": "Tucked into the hamlet of Fradigas on the rugged Costa Ártabra, Casa Güa is a place where time slows down. Stone walls, warm light and a generous garden frame your stay in one of Galicia's most unspoiled corners.\n\nJust a few minutes from Frouxeira — one of Spain's best surf beaches — and the protected Laguna de Valdoviño wetlands, the house is a basecamp for both adventure and deep rest. It also welcomes artists seeking a creative retreat.",
+          "details": "3 bedrooms · 2 bathrooms · Full kitchen · Garden with outdoor seating · Fireplace · Free WiFi · Free parking · Near Frouxeira beach (5 min) · Laguna de Valdoviño (10 min)",
+          "environment": "Valdoviño sits on the wild Costa Ártabra in A Coruña province, Galicia. The area is famous for Frouxeira beach, beloved by surfers and walkers alike, and the Laguna de Valdoviño, a protected lagoon and wetland reserve. The nearest town with restaurants and shops is Valdoviño village, 5 minutes by car.",
+          "location": "Fradigas, Valdoviño, A Coruña, Galicia",
+          "amenities": ["Garden", "Fireplace", "Free WiFi", "Free parking", "Fully equipped kitchen", "Near surf beach", "Natural reserve nearby", "Artist residency available"]
+        },
+        "es": {
+          "title": "Casa Güa — Un Refugio Rural en Galicia",
+          "shortDescription": "Una preciosa casa de piedra restaurada en Valdoviño, a minutos de playas atlánticas salvajes y las reservas naturales más espectaculares de Galicia.",
+          "description": "Enclavada en el lugar de Fradigas, en la accidentada Costa Ártabra, Casa Güa es un lugar donde el tiempo se detiene. Muros de piedra, luz cálida y un generoso jardín enmarcan tu estancia en uno de los rincones más vírgenes de Galicia.\n\nA pocos minutos de Frouxeira — una de las mejores playas de surf de España — y de la Laguna de Valdoviño, la casa es el punto de partida perfecto para la aventura y el descanso profundo. También acoge artistas en busca de un retiro creativo.",
+          "details": "3 habitaciones · 2 baños · Cocina completa · Jardín con zona exterior · Chimenea · WiFi gratuito · Aparcamiento gratuito · Playa de Frouxeira (5 min) · Laguna de Valdoviño (10 min)",
+          "environment": "Valdoviño se encuentra en la salvaje Costa Ártabra, en la provincia de A Coruña. La zona es famosa por la playa de Frouxeira, querida por surfistas y senderistas, y la Laguna de Valdoviño, reserva natural protegida. El pueblo de Valdoviño, con restaurantes y tiendas, está a 5 minutos en coche.",
+          "location": "Fradigas, Valdoviño, A Coruña, Galicia",
+          "amenities": ["Jardín", "Chimenea", "WiFi gratuito", "Aparcamiento gratuito", "Cocina equipada", "Cerca de playa de surf", "Reserva natural próxima", "Residencia artística disponible"]
+        },
+        "gl": {
+          "title": "Casa Güa — Un Refuxio Rural en Galicia",
+          "shortDescription": "Unha fermosa casa de pedra restaurada en Valdoviño, a minutos de praias atlánticas salvaxes e as reservas naturais máis espectaculares de Galicia.",
+          "description": "Encravada no lugar de Fradigas, na accidentada Costa Ártabra, Casa Güa é un lugar onde o tempo para. Muros de pedra, luz cálida e un xeneroso xardín enmarcan a túa estancia nun dos recunchos máis virxes de Galicia.\n\nA poucos minutos de Frouxeira — unha das mellores praias de surf de España — e da Lagoa de Valdoviño, a casa é o punto de partida perfecto para a aventura e o descanso profundo. Tamén acolle artistas en busca dun retiro creativo.",
+          "details": "3 habitacións · 2 baños · Cociña completa · Xardín con zona exterior · Lareira · WiFi gratuíto · Aparcamento gratuíto · Praia de Frouxeira (5 min) · Lagoa de Valdoviño (10 min)",
+          "environment": "Valdoviño atópase na salvaxe Costa Ártabra, na provincia de A Coruña. A zona é famosa pola praia de Frouxeira, querida por surfistas e camiñantes, e a Lagoa de Valdoviño, reserva natural protexida. O pobo de Valdoviño, con restaurantes e tendas, está a 5 minutos en coche.",
+          "location": "Fradigas, Valdoviño, A Coruña, Galicia",
+          "amenities": ["Xardín", "Lareira", "WiFi gratuíto", "Aparcamento gratuíto", "Cociña equipada", "Preto da praia de surf", "Reserva natural próxima", "Residencia artística dispoñible"]
+        }
+      }
+    }
+  ],
+  "site": {
+    "company": {
+      "name": "Casa Güa",
+      "email": "",
+      "phone": "+34 664 698 984",
+      "whatsapp": "+34 664 698 984"
+    },
+    "social": {
+      "facebook": "",
+      "instagram": "@casa_gua",
+      "twitter": ""
+    },
+    "hero": {
+      "images": [
+        "https://static.wixstatic.com/media/945916_1f15533dc9584b12b86dadfb8df3bb63f000.jpg",
+        "https://static.wixstatic.com/media/945916_3d4f394b54a94cdd9df4fbdcfd59210b~mv2.jpg"
+      ]
+    },
+    "reviews": [],
+    "translations": {
+      "en": {
+        "hero": {
+          "title": "Where the Atlantic",
+          "titleItalic": "meets stone and silence",
+          "subtitle": "A restored stone house on Galicia's wild Costa Ártabra — near Frouxeira beach, open to surfers, dreamers and artists",
+          "cta": "Discover the House"
+        },
+        "about": {
+          "label": "About Casa Güa",
+          "title": "A house built for",
+          "titleItalic": "living slowly",
+          "body": "Casa Güa is a restored stone farmhouse in Fradigas, a quiet hamlet in Valdoviño, Galicia. Surrounded by green hills, a short walk from the sea and the Laguna de Valdoviño natural reserve, it offers a rare combination of wild nature, Atlantic light and creative calm. We welcome families, couples, solo travellers and artists who want to step away from the noise."
+        },
+        "features": {
+          "title": "Why Casa Güa",
+          "items": [
+            { "icon": "🌊", "title": "Atlantic Nature", "description": "Frouxeira surf beach and the Laguna de Valdoviño natural reserve are minutes away" },
+            { "icon": "🏡", "title": "Authentic Stone House", "description": "A lovingly restored Galician farmhouse with original stone walls and warm interiors" },
+            { "icon": "🎨", "title": "Creative Atmosphere", "description": "We welcome artists and host residencies — the house has an inspiring, thoughtful energy" },
+            { "icon": "🌿", "title": "Garden & Countryside", "description": "A generous garden surrounded by Galician countryside, perfect for morning coffee or evening wine" }
+          ]
+        },
+        "reviews": {
+          "title": "What Our Guests Say"
+        },
+        "faq": {
+          "title": "Good to Know",
+          "items": [
+            {
+              "question": "How far is the nearest beach?",
+              "answer": "Frouxeira beach — one of Galicia's best surf beaches — is about 5 minutes by car. It's a long, wild Atlantic beach with consistent waves and dune landscape."
+            },
+            {
+              "question": "Is the house suitable for families with children?",
+              "answer": "Yes, the house and garden are well suited to families. The surrounding area has safe beaches, nature trails and plenty of outdoor space."
+            },
+            {
+              "question": "Do you offer artist residencies?",
+              "answer": "Yes — Casa Güa has a longstanding artist residency programme. If you are interested in a creative stay, please get in touch directly to discuss dates and details."
+            },
+            {
+              "question": "What is the cancellation policy?",
+              "answer": "Free cancellation up to 5 days before arrival. For longer stays or residency bookings, please contact us to discuss specific terms."
+            }
+          ]
+        },
+        "activities": {
+          "title": "Things to Do Nearby",
+          "subtitle": "From surfing Frouxeira to hiking the Costa Ártabra — Valdoviño has something for every pace"
+        },
+        "owners": {
+          "title": "List Your Property",
+          "subtitle": "Partner with us to share your corner of Galicia with the world"
+        },
+        "contact": {
+          "title": "Get in Touch",
+          "subtitle": "Questions about availability, the house or artist residencies? We'd love to hear from you.",
+          "responseTime": "We usually reply within a few hours"
+        }
+      },
+      "es": {
+        "hero": {
+          "title": "Donde el Atlántico",
+          "titleItalic": "se encuentra con la piedra y el silencio",
+          "subtitle": "Una casa de piedra restaurada en la salvaje Costa Ártabra de Galicia — junto a la playa de Frouxeira, abierta a surfistas, soñadores y artistas",
+          "cta": "Descubrir la Casa"
+        },
+        "about": {
+          "label": "Sobre Casa Güa",
+          "title": "Una casa construida para",
+          "titleItalic": "vivir despacio",
+          "body": "Casa Güa es una casa de labranza de piedra restaurada en Fradigas, un tranquilo lugar de Valdoviño, Galicia. Rodeada de colinas verdes, a un corto paseo del mar y de la reserva natural de la Laguna de Valdoviño, ofrece una combinación única de naturaleza salvaje, luz atlántica y calma creativa. Damos la bienvenida a familias, parejas, viajeros individuales y artistas que quieran alejarse del ruido."
+        },
+        "features": {
+          "title": "Por qué Casa Güa",
+          "items": [
+            { "icon": "🌊", "title": "Naturaleza Atlántica", "description": "La playa de surf de Frouxeira y la reserva natural de la Laguna de Valdoviño están a minutos" },
+            { "icon": "🏡", "title": "Casa de Piedra Auténtica", "description": "Una casa gallega cuidadosamente restaurada con muros originales de piedra e interiores cálidos" },
+            { "icon": "🎨", "title": "Atmósfera Creativa", "description": "Damos la bienvenida a artistas y acogemos residencias — la casa tiene una energía inspiradora y reflexiva" },
+            { "icon": "🌿", "title": "Jardín y Campo", "description": "Un generoso jardín rodeado de campo gallego, perfecto para el café matutino o el vino vespertino" }
+          ]
+        },
+        "reviews": {
+          "title": "Lo Que Dicen Nuestros Huéspedes"
+        },
+        "faq": {
+          "title": "Bueno Saber",
+          "items": [
+            {
+              "question": "¿A qué distancia está la playa más cercana?",
+              "answer": "La playa de Frouxeira — una de las mejores playas de surf de Galicia — está a unos 5 minutos en coche. Es una larga playa atlántica salvaje con olas constantes y paisaje dunar."
+            },
+            {
+              "question": "¿Es la casa adecuada para familias con niños?",
+              "answer": "Sí, la casa y el jardín son ideales para familias. La zona tiene playas seguras, rutas de senderismo y mucho espacio al aire libre."
+            },
+            {
+              "question": "¿Ofrecéis residencias artísticas?",
+              "answer": "Sí — Casa Güa tiene un programa de residencias artísticas consolidado. Si estás interesado en una estancia creativa, contáctanos directamente para hablar de fechas y detalles."
+            },
+            {
+              "question": "¿Cuál es la política de cancelación?",
+              "answer": "Cancelación gratuita hasta 5 días antes de la llegada. Para estancias más largas o reservas de residencias, contáctanos para hablar de condiciones específicas."
+            }
+          ]
+        },
+        "activities": {
+          "title": "Qué Hacer Cerca",
+          "subtitle": "Desde surfear en Frouxeira hasta senderismo por la Costa Ártabra — Valdoviño tiene algo para cada ritmo"
+        },
+        "owners": {
+          "title": "Publica tu Propiedad",
+          "subtitle": "Colabora con nosotros para compartir tu rincón de Galicia con el mundo"
+        },
+        "contact": {
+          "title": "Escríbenos",
+          "subtitle": "¿Preguntas sobre disponibilidad, la casa o las residencias artísticas? Nos encantará saber de ti.",
+          "responseTime": "Solemos responder en pocas horas"
+        }
+      },
+      "gl": {
+        "hero": {
+          "title": "Onde o Atlántico",
+          "titleItalic": "se encontra coa pedra e o silencio",
+          "subtitle": "Unha casa de pedra restaurada na salvaxe Costa Ártabra de Galicia — preto da praia de Frouxeira, aberta a surfistas, soñadores e artistas",
+          "cta": "Descubrir a Casa"
+        },
+        "about": {
+          "label": "Sobre Casa Güa",
+          "title": "Unha casa feita para",
+          "titleItalic": "vivir amodo",
+          "body": "Casa Güa é unha casa de labranza de pedra restaurada en Fradigas, un tranquilo lugar de Valdoviño, Galicia. Rodeada de outeiros verdes, a un curto paseo do mar e da reserva natural da Lagoa de Valdoviño, ofrece unha combinación única de natureza salvaxe, luz atlántica e calma creativa. Damos a benvida a familias, parellas, viaxeiros solos e artistas que queiran afastarse do ruído."
+        },
+        "features": {
+          "title": "Por que Casa Güa",
+          "items": [
+            { "icon": "🌊", "title": "Natureza Atlántica", "description": "A praia de surf de Frouxeira e a reserva natural da Lagoa de Valdoviño están a minutos" },
+            { "icon": "🏡", "title": "Casa de Pedra Auténtica", "description": "Unha casa galega coidadosamente restaurada con muros orixinais de pedra e interiores cálidos" },
+            { "icon": "🎨", "title": "Atmosfera Creativa", "description": "Damos a benvida a artistas e acollemos residencias — a casa ten unha enerxía inspiradora e reflexiva" },
+            { "icon": "🌿", "title": "Xardín e Campo", "description": "Un xeneroso xardín rodeado de campo galego, perfecto para o café matutino ou o viño da tarde" }
+          ]
+        },
+        "reviews": {
+          "title": "O Que Din Os Nosos Hóspedes"
+        },
+        "faq": {
+          "title": "Bo Saber",
+          "items": [
+            {
+              "question": "A que distancia está a praia máis próxima?",
+              "answer": "A praia de Frouxeira — unha das mellores praias de surf de Galicia — está a uns 5 minutos en coche. É unha longa praia atlántica salvaxe con ondas constantes e paisaxe dunar."
+            },
+            {
+              "question": "É a casa axeitada para familias con nenos?",
+              "answer": "Si, a casa e o xardín son ideais para familias. A zona ten praias seguras, rutas de sendeirismo e moito espazo ao aire libre."
+            },
+            {
+              "question": "Ofrecedes residencias artísticas?",
+              "answer": "Si — Casa Güa ten un programa de residencias artísticas consolidado. Se estás interesado nunha estancia creativa, contáctanos directamente para falar de datas e detalles."
+            },
+            {
+              "question": "Cal é a política de cancelación?",
+              "answer": "Cancelación gratuíta ata 5 días antes da chegada. Para estadías máis longas ou reservas de residencias, contáctanos para falar de condicións específicas."
+            }
+          ]
+        },
+        "activities": {
+          "title": "Que Facer Preto",
+          "subtitle": "Desde surfar en Frouxeira ata sendeirismo pola Costa Ártabra — Valdoviño ten algo para cada ritmo"
+        },
+        "owners": {
+          "title": "Publica a túa Propiedade",
+          "subtitle": "Colabora connosco para compartir o teu recuncho de Galicia co mundo"
+        },
+        "contact": {
+          "title": "Escríbenos",
+          "subtitle": "Preguntas sobre dispoñibilidade, a casa ou as residencias artísticas? Encantaranos saber de ti.",
+          "responseTime": "Normalmente respondemos en poucas horas"
+        }
+      }
+    }
+  },
+  "features": {
+    "pages": {
+      "owners": false,
+      "activities": true
+    },
+    "sections": {
+      "about": true,
+      "reviews": false,
+      "faq": true,
+      "contact": true
+    }
+  }
+}
